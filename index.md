@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Prediction of User Interest Using Bank Data](https://github.com/jasonhckim/Logistic_Regression_Project)
 
-<img src="images/bank image.jpeg?raw=true"/>
+<img src="images/bank.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
