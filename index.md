@@ -1,6 +1,37 @@
-# Data Science Portfolio
+# AI/ML Director of E-commerce | Strategic Growth & Digital Innovation Leader
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+## 📊 FX5 Sales Report Cleaner for BigQuery
+<img src="images/fx5-sales.jpeg?raw=true"/>
+**Skills used: Python, Pandas, Data Cleaning, Google BigQuery, GCS Integration
+
+**Project Objective: Automate the cleaning and formatting of FX5 sales reports for seamless ingestion into BigQuery, ensuring schema alignment, quote fixing, and type correction across multi-part CSV files.
+
+**Key Highlights:**
+
+-Consolidated and normalized headers across files with inconsistent formats
+
+-Removed problematic characters and corrected missing values
+
+-Integrated with Google Cloud Storage for scalable loading into BigQuery
+
+-Created a reusable Colab workflow for non-technical users
+***
+
+## 🧠 AI Style Sheet Generator
+<img src="images/ai-styles.jpeg?raw=true"/>
+**Skills used: OpenAI, Python, JSON, Prompt Engineering, Product Tagging, Google Cloud Functions
+
+**Project Objective: Use AI to auto-tag fashion products with style categories, vibes, and merchandising metadata. Outputs are used to generate line sheets for B2B sales outreach.
+
+**Key Results:**
+
+-Automatically generates style_type, vibe, and ai_tags for products from titles/descriptions
+
+-Helps sales teams send tailored line sheets to fashion buyers
+
+-Built on OpenAI's API with real-time BigQuery integration
+
+-Supports daily runs for new or updated styles
 
 ***
 
