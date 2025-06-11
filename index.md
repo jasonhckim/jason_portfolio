@@ -1,5 +1,5 @@
 # AI/ML Director of E-commerce | Strategic Growth & Digital Innovation Leader
-
+***
 ## 📊 FX5 Sales Report Cleaner for BigQuery
 <img src="images/fx5-sales.jpeg?raw=true"/>
 **Skills used: Python, Pandas, Data Cleaning, Google BigQuery, GCS Integration
