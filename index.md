@@ -1,7 +1,6 @@
 # AI/ML Director of E-commerce | Strategic Growth & Digital Innovation Leader
 ***
 ## 📊 FX5 Sales Report Cleaner for BigQuery
-<img src="images/fx5-sales.jpeg?raw=true"/>
 **Skills used: Python, Pandas, Data Cleaning, Google BigQuery, GCS Integration
 
 **Project Objective: Automate the cleaning and formatting of FX5 sales reports for seamless ingestion into BigQuery, ensuring schema alignment, quote fixing, and type correction across multi-part CSV files.
@@ -18,7 +17,6 @@
 ***
 
 ## 🧠 AI Style Sheet Generator
-<img src="images/ai-styles.jpeg?raw=true"/>
 **Skills used: OpenAI, Python, JSON, Prompt Engineering, Product Tagging, Google Cloud Functions
 
 **Project Objective: Use AI to auto-tag fashion products with style categories, vibes, and merchandising metadata. Outputs are used to generate line sheets for B2B sales outreach.
